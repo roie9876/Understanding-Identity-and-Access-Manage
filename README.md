@@ -1,4 +1,4 @@
-Understanding Identity and Access Management in Azure AI Foundry
+# Understanding Identity and Access Management in Azure AI Foundry
 
 Introduction
 
